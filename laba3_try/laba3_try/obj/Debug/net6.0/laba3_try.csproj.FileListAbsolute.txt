@@ -1,0 +1,15 @@
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/obj/Debug/net6.0/laba3_try.csproj.AssemblyReference.cache
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/obj/Debug/net6.0/laba3_try.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/obj/Debug/net6.0/laba3_try.AssemblyInfoInputs.cache
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/obj/Debug/net6.0/laba3_try.AssemblyInfo.cs
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/obj/Debug/net6.0/laba3_try.csproj.CoreCompileInputs.cache
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/bin/Debug/net6.0/laba3_try
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/bin/Debug/net6.0/laba3_try.deps.json
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/bin/Debug/net6.0/laba3_try.runtimeconfig.json
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/bin/Debug/net6.0/laba3_try.dll
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/bin/Debug/net6.0/laba3_try.pdb
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/obj/Debug/net6.0/laba3_try.dll
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/obj/Debug/net6.0/refint/laba3_try.dll
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/obj/Debug/net6.0/laba3_try.pdb
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/obj/Debug/net6.0/laba3_try.genruntimeconfig.cache
+/Users/denisborovik/Projects/sluzhebnaya/laba3_try/laba3_try/obj/Debug/net6.0/ref/laba3_try.dll

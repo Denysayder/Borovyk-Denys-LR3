@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{C2ABAFBB-E39C-4E33-A805-F225745349F9}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="laba3_part2/Room.cs">
+    <Files>
+      <File FileName="laba3_part2/Program.cs" Line="10" Column="13" />
+      <File FileName="laba3_part2/Toy.cs" Line="21" Column="6" />
+      <File FileName="laba3_part2/Doll.cs" Line="15" Column="6" />
+      <File FileName="laba3_part2/Car.cs" Line="44" Column="56" />
+      <File FileName="laba3_part2/Ball.cs" Line="7" Column="45" />
+      <File FileName="laba3_part2/Cube.cs" Line="7" Column="56" />
+      <File FileName="laba3_part2/Room.cs" Line="94" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="laba3_part2" expanded="True">
+            <Node name="laba3_part2" expanded="True">
+              <Node name="Room.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.laba3__part2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

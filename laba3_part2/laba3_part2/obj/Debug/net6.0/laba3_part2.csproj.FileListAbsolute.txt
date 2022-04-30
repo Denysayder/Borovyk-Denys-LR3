@@ -1,0 +1,17 @@
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/bin/Debug/net6.0/laba3_part2
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/bin/Debug/net6.0/laba3_part2.deps.json
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/bin/Debug/net6.0/laba3_part2.runtimeconfig.json
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/bin/Debug/net6.0/laba3_part2.dll
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/bin/Debug/net6.0/laba3_part2.pdb
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/laba3_part2.csproj.AssemblyReference.cache
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/laba3_part2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/laba3_part2.AssemblyInfoInputs.cache
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/laba3_part2.AssemblyInfo.cs
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/laba3_part2.csproj.CoreCompileInputs.cache
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/laba3_part2.dll
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/refint/laba3_part2.dll
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/laba3_part2.pdb
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/laba3_part2.genruntimeconfig.cache
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/ref/laba3_part2.dll
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/denisborovik/Projects/laba3_part2/laba3_part2/obj/Debug/net6.0/laba3_part2.csproj.CopyComplete
